@@ -2396,6 +2396,7 @@ markers:
 
       ', id: KR5b0018_ZTDZ_006-bkkp29}
   - {type: line-break, offset: 9331, content: '', id: KR5b0018_SJB_006-050960a16}
+  - {type: voice, offset: 9331, length: 0, name: note, id: n1}
   - {type: paragraph-break, offset: 9342, content: '
 
 
@@ -2403,4 +2404,4 @@ markers:
 
       ', id: KR5b0018_ZTDZ_006-bkkp30}
   back: []
-hash: sha256:2f0ade0844a5c0ce64eee53acaa965f146d3952705212bf2d6a31ab23f6cb98d
+hash: sha256:45422ec09a8601368c21be7c00a028d01a8bdc027d8ac8939004151fffa1803d
